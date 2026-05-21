@@ -1,5 +1,35 @@
-# See 'repos.txt.example' file
+# repos.txt.example – copy to repos.txt and edit
 
 # Format: owner/repo|filter1|filter2|...
 # Filters are case‑insensitive regular expressions (grep -E).
 
+# 1. No filter – keep all assets from the release
+# therealaleph/MasterHttpRelayVPN-RUST
+
+# 2. Match keywords (e.g., linux-amd64, darwin-amd64)
+# NullLatency/FlowDriver|linux-amd64|darwin-amd64
+
+# 3. Mix of keywords and file extensions (note escaping of dots)
+# SagerNet/sing-box|windows-amd64|darwin-amd64.tar.gz|darwin-arm64|arm64-v8a.apk
+
+# 4. Only specific file extensions (use .dmg and .exe – backslashes for literal dot)
+# KaringX/karing|\.dmg|\.exe
+
+# 5. Disable a line by commenting it with #
+# masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
+
+
+anonvector/SlipNet|lite-release-arm64|windows-amd64
+MortezaBashsiz/CFScanner
+masterking32/MasterDnsVPN|Windows_AMD64
+lilendian0x00/xray-knife|windows-64.zip
+GFW-knocker/MahsaNG|arm64-v8a|_x86_64
+GFW-knocker/Xray-core|windows-64.zip
+nullroute1970/StormDNS|Windows_AMD64
+ShahabSL/Skirk|arm64-v8a.apk|windows_x64_portable.zip
+2dust/v2rayN|windows-64
+2dust/v2rayNG|arm64-v8a.apk|_x86_64.apk
+mirarr-app/network-checker|arm64-v8a|windows
+iampedii/WhiteDNS|arm64-v8a.apk
+therealaleph/sni-spoofing-rust|windows-amd64
+throneproj/Throne|windows64.zip
