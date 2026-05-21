@@ -34,6 +34,7 @@ iampedii/WhiteDNS|arm64-v8a.apk
 therealaleph/sni-spoofing-rust|windows-amd64
 throneproj/Throne|windows64.zip
 KNG7-P/Se7en-Pro
+MaxiFan/TunnelX|-standalone-compressed
 10ium/SNIScanner
 Rainman69/SNISPF|windows-x86_64.zip
 NullLatency/FlowDriver|windows-amd64.zip
