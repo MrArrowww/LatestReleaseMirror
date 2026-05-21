@@ -103,8 +103,8 @@ jobs:
             target_dir="releases/$owner/$repo_name"
             mkdir -p "$target_dir"
 
-            latest_json=$(curl -s --fail "https://api.github.com/repos/$repo_path/releases/latest")
-            if echo "$latest_json" | grep -q '"message": "Not Found"'; then
+            latest_json=$(curl -s --fail "https://api.github.com/repos/$repo_path/releases" | jq '.[0]')
+            if [ -z "$latest_json" ] || [ "$latest_json" = "null" ]; then
               echo "  No releases found, skipping."
               continue
             fi
