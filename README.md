@@ -157,5 +157,235 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="10ium--sniscanner"></div>
 
+### 10ium--SNIScanner
+
+🔗 [source](https://github.com/10ium/SNIScanner) – [<code><small>v1.6.0</small></code>](https://github.com/10ium/SNIScanner/releases/tag/v1.6.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `SNI_Scanner_Pro.exe` | 11.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/10ium/SNIScanner/SNI_Scanner_Pro.exe) |
+
+---
+
+<div id="2dust--v2rayn"></div>
+
+### 2dust--v2rayN
+
+🔗 [source](https://github.com/2dust/v2rayN) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.21.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.001) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 28.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.001) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 60.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/v2rayN-windows-64.zip.002) |
+
+---
+
+<div id="2dust--v2rayng"></div>
+
+### 2dust--v2rayNG
+
+🔗 [source](https://github.com/2dust/v2rayNG) – [<code><small>2.1.8</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.8)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.1.8-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.1.8-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8-fdroid_x86_64.apk) |
+| `v2rayNG_2.1.8_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_arm64-v8a.apk) |
+| `v2rayNG_2.1.8_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/v2rayNG_2.1.8_x86_64.apk) |
+
+---
+
+<div id="gfw-knocker--mahsang"></div>
+
+### GFW-knocker--MahsaNG
+
+🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v16-(1405-2-25)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v16-(1405-2-25))
+
+| File | Size | Download |
+|------|------|----------|
+| `MahsaNG_16_arm64-v8a.apk` | 59.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_arm64-v8a.apk) |
+| `MahsaNG_16_x86_64.apk` | 62.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86_64.apk) |
+
+---
+
+<div id="gfw-knocker--xray-core"></div>
+
+### GFW-knocker--Xray-core
+
+🔗 [source](https://github.com/GFW-knocker/Xray-core) – [<code><small>v1.26.5-mahsa-r1</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.5-mahsa-r1)
+
+| File | Size | Download |
+|------|------|----------|
+| `Xray-windows-64.zip` | 20.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/Xray-core/Xray-windows-64.zip) |
+| `Xray-windows-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/Xray-core/Xray-windows-64.zip.dgst) |
+
+---
+
+<div id="mhsanaei--3x-ui"></div>
+
+### MHSanaei--3x-ui
+
+🔗 [source](https://github.com/MHSanaei/3x-ui) – [<code><small>v2.9.4</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v2.9.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `x-ui-windows-amd64.zip` | 74.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/x-ui-windows-amd64.zip) |
+
+---
+
+<div id="mortezabashsiz--cfscanner"></div>
+
+### MortezaBashsiz--CFScanner
+
+🔗 [source](https://github.com/MortezaBashsiz/CFScanner) – [<code><small>win-v1.4.96</small></code>](https://github.com/MortezaBashsiz/CFScanner/releases/tag/win-v1.4.96)
+
+| File | Size | Download |
+|------|------|----------|
+| `WinCFScan-win-v1.4.96.zip` | 8.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MortezaBashsiz/CFScanner/WinCFScan-win-v1.4.96.zip) |
+
+---
+
+<div id="nulllatency--flowdriver"></div>
+
+### NullLatency--FlowDriver
+
+🔗 [source](https://github.com/NullLatency/FlowDriver) – [<code><small>v0.0.5</small></code>](https://github.com/NullLatency/FlowDriver/releases/tag/v0.0.5)
+
+| File | Size | Download |
+|------|------|----------|
+| `flowdriver-client-v0.0.5-windows-amd64.zip` | 4.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flowdriver-client-v0.0.5-windows-amd64.zip) |
+| `flowdriver-server-v0.0.5-windows-amd64.zip` | 4.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/NullLatency/FlowDriver/flowdriver-server-v0.0.5-windows-amd64.zip) |
+
+---
+
+<div id="rainman69--snispf"></div>
+
+### Rainman69--SNISPF
+
+🔗 [source](https://github.com/Rainman69/SNISPF) – [<code><small>v1.9.0</small></code>](https://github.com/Rainman69/SNISPF/releases/tag/v1.9.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `snispf-windows-x86_64.zip` | 9.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/Rainman69/SNISPF/snispf-windows-x86_64.zip) |
+
+---
+
+<div id="shahabsl--skirk"></div>
+
+### ShahabSL--Skirk
+
+🔗 [source](https://github.com/ShahabSL/Skirk) – [<code><small>v0.1.55</small></code>](https://github.com/ShahabSL/Skirk/releases/tag/v0.1.55)
+
+| File | Size | Download |
+|------|------|----------|
+| `Skirk_windows_x64_portable.zip` | 42.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_windows_x64_portable.zip) |
+| `Skirk_windows_x64_portable.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/ShahabSL/Skirk/Skirk_windows_x64_portable.zip.sha256) |
+| `skirk-android-arm64-v8a.apk` | 14.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-arm64-v8a.apk) |
+| `skirk-android-arm64-v8a.apk.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/ShahabSL/Skirk/skirk-android-arm64-v8a.apk.sha256) |
+
+---
+
+<div id="anonvector--slipnet"></div>
+
+### anonvector--SlipNet
+
+🔗 [source](https://github.com/anonvector/SlipNet) – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `SlipNet-v2.5.3-lite-release-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/anonvector/SlipNet/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) |
+| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/anonvector/SlipNet/slipnet-windows-amd64.exe) |
+
+---
+
+<div id="iampedii--whitedns"></div>
+
+### iampedii--WhiteDNS
+
+🔗 [source](https://github.com/iampedii/WhiteDNS) – [<code><small>1.5.1</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.5.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `WhiteDNS-1.5.1-arm64-v8a.apk` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.1-arm64-v8a.apk) |
+| `WhiteDNS-1.5.1-arm64-v8a.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/WhiteDNS-1.5.1-arm64-v8a.apk.idsig) |
+
+---
+
+<div id="lilendian0x00--xray-knife"></div>
+
+### lilendian0x00--xray-knife
+
+🔗 [source](https://github.com/lilendian0x00/xray-knife) – [<code><small>v10.0.0</small></code>](https://github.com/lilendian0x00/xray-knife/releases/tag/v10.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `Xray-knife-windows-64.zip` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/Xray-knife-windows-64.zip) |
+| `Xray-knife-windows-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/Xray-knife-windows-64.zip.dgst) |
+
+---
+
+<div id="masterking32--masterdnsvpn"></div>
+
+### masterking32--MasterDnsVPN
+
+🔗 [source](https://github.com/masterking32/MasterDnsVPN) – [<code><small>v2026.05.10.180256-27c7e11</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.05.10.180256-27c7e11)
+
+| File | Size | Download |
+|------|------|----------|
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Client_Windows_AMD64.zip) |
+| `MasterDnsVPN_Server_Windows_AMD64.zip` | 3.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/MasterDnsVPN_Server_Windows_AMD64.zip) |
+
+---
+
+<div id="mirarr-app--network-checker"></div>
+
+### mirarr-app--network-checker
+
+🔗 [source](https://github.com/mirarr-app/network-checker) – [<code><small>0.6.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.6.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `app-arm64-v8a-release.apk` | 31.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/app-arm64-v8a-release.apk) |
+| `rdnbenet-windows.zip` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/rdnbenet-windows.zip) |
+
+---
+
+<div id="nullroute1970--stormdns"></div>
+
+### nullroute1970--StormDNS
+
+🔗 [source](https://github.com/nullroute1970/StormDNS) – [<code><small>v2026.05.13.223445-87348df</small></code>](https://github.com/nullroute1970/StormDNS/releases/tag/v2026.05.13.223445-87348df)
+
+| File | Size | Download |
+|------|------|----------|
+| `StormDNS_Client_Windows_AMD64.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Client_Windows_AMD64.zip) |
+| `StormDNS_Server_Windows_AMD64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/StormDNS_Server_Windows_AMD64.zip) |
+
+---
+
+<div id="therealaleph--sni-spoofing-rust"></div>
+
+### therealaleph--sni-spoofing-rust
+
+🔗 [source](https://github.com/therealaleph/sni-spoofing-rust) – [<code><small>v1.0.1</small></code>](https://github.com/therealaleph/sni-spoofing-rust/releases/tag/v1.0.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `sni-spoof-rs-windows-amd64.zip` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/therealaleph/sni-spoofing-rust/sni-spoof-rs-windows-amd64.zip) |
+
+---
+
+<div id="throneproj--throne"></div>
+
+### throneproj--Throne
+
+🔗 [source](https://github.com/throneproj/Throne) – [<code><small>1.1.3</small></code>](https://github.com/throneproj/Throne/releases/tag/1.1.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `Throne-1.1.3-windows64.zip` | 45.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/Throne-1.1.3-windows64.zip) |
 <!-- RELEASES_END -->
