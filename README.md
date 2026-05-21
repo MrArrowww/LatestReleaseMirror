@@ -178,14 +178,14 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/2dust/v2rayN)
 
-#### 🟢 Stable – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.21.3)
+#### 🟢 Stable – [<code><small>7.22.2</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.2)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64-desktop.zip (part 1 of 4)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 4)` | 28.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 4)` | 31.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 4)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 4)` | 60.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 4)` | 65.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
 
 #### 🟡 Pre-release – [<code><small>7.22.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.3)
 
@@ -258,6 +258,21 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="kng7-p--se7en-pro"></div>
+
+### KNG7-P--Se7en-Pro
+
+🔗 [source](https://github.com/KNG7-P/Se7en-Pro)
+
+#### 🟢 Stable – [<code><small>v1.0.0</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `Se7enPro_Setup.exe` | 76.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_Setup.exe) |
+
+
+---
+
 <div id="mhsanaei--3x-ui"></div>
 
 ### MHSanaei--3x-ui
@@ -275,6 +290,23 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `x-ui-windows-amd64.zip` | 75.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/prerelease/x-ui-windows-amd64.zip) |
+
+
+---
+
+<div id="maxifan--tunnelx"></div>
+
+### MaxiFan--TunnelX
+
+🔗 [source](https://github.com/MaxiFan/TunnelX)
+
+#### 🟢 Stable – [<code><small>v2.1.0</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v2.1.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `TunnelX-v2.1.0-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.0-standalone-compressed.exe.sha256) |
+| `TunnelX-v2.1.0-standalone-compressed.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.0-standalone-compressed.exe.001) |
+| `TunnelX-v2.1.0-standalone-compressed.exe (part 2 of 2)` | 31.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.0-standalone-compressed.exe.002) |
 
 
 ---
@@ -466,11 +498,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/throneproj/Throne)
 
-#### 🟢 Stable – [<code><small>1.1.3</small></code>](https://github.com/throneproj/Throne/releases/tag/1.1.3)
+#### 🟢 Stable – [<code><small>1.1.4</small></code>](https://github.com/throneproj/Throne/releases/tag/1.1.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `Throne-1.1.3-windows64.zip` | 45.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.1.3-windows64.zip) |
+| `Throne-1.1.4-windows64.zip` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.1.4-windows64.zip) |
 
 #### 🟡 Pre-release – [<code><small>1.1.0-beta.3</small></code>](https://github.com/throneproj/Throne/releases/tag/1.1.0-beta.3)
 
