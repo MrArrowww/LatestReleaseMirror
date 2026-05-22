@@ -294,23 +294,6 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="maxifan--tunnelx"></div>
-
-### MaxiFan--TunnelX
-
-🔗 [source](https://github.com/MaxiFan/TunnelX)
-
-#### 🟢 Stable – [<code><small>v2.1.0</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v2.1.0)
-
-| File | Size | Download |
-|------|------|----------|
-| `TunnelX-v2.1.0-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.0-standalone-compressed.exe.sha256) |
-| `TunnelX-v2.1.0-standalone-compressed.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.0-standalone-compressed.exe.001) |
-| `TunnelX-v2.1.0-standalone-compressed.exe (part 2 of 2)` | 31.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.0-standalone-compressed.exe.002) |
-
-
----
-
 <div id="mortezabashsiz--cfscanner"></div>
 
 ### MortezaBashsiz--CFScanner
