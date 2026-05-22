@@ -243,15 +243,17 @@ jobs:
           fi
 
           # ------------------------------------------------------------
-          # Build a mapping of multipart part counts
+          # Build a mapping of multipart part counts (keyed by full path)
           # ------------------------------------------------------------
           declare -A PART_COUNTS
           while read -r asset_path; do
             asset=$(basename "$asset_path")
+            dir=$(dirname "$asset_path")
             [[ "$asset" == ".version" || "$asset" == "release.json" || "$asset" == ".filter" ]] && continue
             if [[ "$asset" =~ \.[0-9]{3}$ ]]; then
               base="${asset%.???}"
-              PART_COUNTS["$base"]=$(( ${PART_COUNTS["$base"]} + 1 ))
+              key="$dir/$base"
+              PART_COUNTS["$key"]=$(( ${PART_COUNTS["$key"]} + 1 ))
             fi
           done < <(find releases -type f)
 
@@ -320,7 +322,8 @@ jobs:
 
                 if [[ "$asset" =~ \.[0-9]{3}$ ]]; then
                   base="${asset%.???}"
-                  total_parts=${PART_COUNTS["$base"]}
+                  key="$status_dir/$base"
+                  total_parts=${PART_COUNTS["$key"]}
                   part_num=${asset##*.}
                   part_num=$((10#$part_num))
                   display_name="$base (part $part_num of $total_parts)"
