@@ -214,14 +214,14 @@ sha256sum FILE_NAME
 | `v2rayNG_2.1.8_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.1.8_arm64-v8a.apk) |
 | `v2rayNG_2.1.8_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.1.8_x86_64.apk) |
 
-#### 🟡 Pre-release – [<code><small>2.1.6</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.1.6)
+#### 🟡 Pre-release – [<code><small>2.2.0</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.1.6-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.1.6-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.1.6-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.1.6-fdroid_x86_64.apk) |
-| `v2rayNG_2.1.6_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.1.6_arm64-v8a.apk) |
-| `v2rayNG_2.1.6_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.1.6_x86_64.apk) |
+| `v2rayNG_2.2.0-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.0-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.0_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0_arm64-v8a.apk) |
+| `v2rayNG_2.2.0_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0_x86_64.apk) |
 
 
 ---
@@ -290,23 +290,6 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `x-ui-windows-amd64.zip` | 75.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/prerelease/x-ui-windows-amd64.zip) |
-
-
----
-
-<div id="maxifan--tunnelx"></div>
-
-### MaxiFan--TunnelX
-
-🔗 [source](https://github.com/MaxiFan/TunnelX)
-
-#### 🟢 Stable – [<code><small>v2.1.1</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v2.1.1)
-
-| File | Size | Download |
-|------|------|----------|
-| `TunnelX-v2.1.1-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.1-standalone-compressed.exe.sha256) |
-| `TunnelX-v2.1.1-standalone-compressed.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.1-standalone-compressed.exe.001) |
-| `TunnelX-v2.1.1-standalone-compressed.exe (part 2 of 2)` | 30.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.1-standalone-compressed.exe.002) |
 
 
 ---
