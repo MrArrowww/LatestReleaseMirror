@@ -264,11 +264,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/KNG7-P/Se7en-Pro)
 
-#### 🟢 Stable – [<code><small>v1.0.0</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.0)
+#### 🟢 Stable – [<code><small>v1.0.1</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `Se7enPro_Setup.exe` | 76.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_Setup.exe) |
+| `Se7enPro_Setup_1.0.1.exe` | 71.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_Setup_1.0.1.exe) |
 
 
 ---
@@ -364,12 +364,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/anonvector/SlipNet)
 
-#### 🟢 Stable – [<code><small>v2.5.3</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.3)
+#### 🟢 Stable – [<code><small>v2.5.5</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `SlipNet-v2.5.3-lite-release-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/anonvector/SlipNet/stable/SlipNet-v2.5.3-lite-release-arm64-v8a.apk) |
-| `slipnet-windows-amd64.exe` | 11.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/anonvector/SlipNet/stable/slipnet-windows-amd64.exe) |
+| `SlipNet-v2.5.5-lite-release-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/anonvector/SlipNet/stable/SlipNet-v2.5.5-lite-release-arm64-v8a.apk) |
 
 #### 🟡 Pre-release – [<code><small>v2.5.0-beta2</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.0-beta2)
 
@@ -434,7 +433,7 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/mirarr-app/network-checker)
 
-#### 🟢 Stable – [<code><small>0.7.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.7.0)
+#### 🟢 Stable – [<code><small>0.8.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.8.0)
 
 | File | Size | Download |
 |------|------|----------|
