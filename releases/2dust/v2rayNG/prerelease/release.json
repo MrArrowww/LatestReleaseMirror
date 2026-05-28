@@ -1,7 +1,7 @@
 {
-  "tag": "2.2.0",
+  "tag": "2.2.1",
   "status": "prerelease",
-  "published_at": "2026-05-23T07:42:56Z",
+  "published_at": "2026-05-27T12:13:49Z",
   "filter_pattern": "arm64-v8a.apk|_x86_64.apk",
-  "updated_at": "2026-05-23T08:34:19Z"
+  "updated_at": "2026-05-28T12:51:56Z"
 }
