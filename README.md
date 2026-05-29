@@ -187,14 +187,14 @@ sha256sum FILE_NAME
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.001) |
 | `v2rayN-windows-64.zip (part 2 of 2)` | 65.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
 
-#### 🟡 Pre-release – [<code><small>7.22.1</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.1)
+#### 🟡 Pre-release – [<code><small>7.22.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.4)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 31.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 65.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 68.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
 
 
 ---
@@ -279,11 +279,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/MHSanaei/3x-ui)
 
-#### 🟢 Stable – [<code><small>v3.1.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.1.0)
+#### 🟢 Stable – [<code><small>v3.2.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.2.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-windows-amd64.zip` | 76.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
+| `x-ui-windows-amd64.zip` | 79.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
 
 #### 🟡 Pre-release – [<code><small>v3.0.2</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.0.2)
 
