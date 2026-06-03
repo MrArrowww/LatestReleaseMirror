@@ -178,23 +178,23 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/2dust/v2rayN)
 
-#### 🟢 Stable – [<code><small>7.22.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.4)
+#### 🟢 Stable – [<code><small>7.22.5</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.5)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 68.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 69.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
 
-#### 🟡 Pre-release – [<code><small>7.22.5</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.5)
+#### 🟡 Pre-release – [<code><small>7.22.1</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.1)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 31.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 69.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 65.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
 
 
 ---
@@ -205,23 +205,23 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/2dust/v2rayNG)
 
-#### 🟢 Stable – [<code><small>2.2.2</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.2)
+#### 🟢 Stable – [<code><small>2.2.3</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.2-fdroid_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.2-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.2-fdroid_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.2-fdroid_x86_64.apk) |
-| `v2rayNG_2.2.2_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.2_arm64-v8a.apk) |
-| `v2rayNG_2.2.2_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.2_x86_64.apk) |
+| `v2rayNG_2.2.3-fdroid_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.3-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.3-fdroid_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.3-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.3_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.3_arm64-v8a.apk) |
+| `v2rayNG_2.2.3_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.3_x86_64.apk) |
 
-#### 🟡 Pre-release – [<code><small>2.2.3</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.3)
+#### 🟡 Pre-release – [<code><small>2.2.0</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.3-fdroid_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.3-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.3-fdroid_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.3-fdroid_x86_64.apk) |
-| `v2rayNG_2.2.3_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.3_arm64-v8a.apk) |
-| `v2rayNG_2.2.3_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.3_x86_64.apk) |
+| `v2rayNG_2.2.0-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.0-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.0_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0_arm64-v8a.apk) |
+| `v2rayNG_2.2.0_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0_x86_64.apk) |
 
 
 ---
@@ -433,12 +433,12 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/mirarr-app/network-checker)
 
-#### 🟢 Stable – [<code><small>0.8.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/0.8.0)
+#### 🟢 Stable – [<code><small>1.0.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `app-arm64-v8a-release.apk` | 31.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/app-arm64-v8a-release.apk) |
-| `rdnbenet-windows.zip` | 20.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/rdnbenet-windows.zip) |
+| `app-arm64-v8a-release.apk` | 31.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/app-arm64-v8a-release.apk) |
+| `rdnbenet-windows.zip` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/rdnbenet-windows.zip) |
 
 
 ---
@@ -465,11 +465,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/therealaleph/sni-spoofing-rust)
 
-#### 🟢 Stable – [<code><small>v1.0.1</small></code>](https://github.com/therealaleph/sni-spoofing-rust/releases/tag/v1.0.1)
+#### 🟢 Stable – [<code><small>v1.0.2</small></code>](https://github.com/therealaleph/sni-spoofing-rust/releases/tag/v1.0.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `sni-spoof-rs-windows-amd64.zip` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/therealaleph/sni-spoofing-rust/stable/sni-spoof-rs-windows-amd64.zip) |
+| `sni-spoof-rs-windows-amd64.zip` | 16.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/therealaleph/sni-spoofing-rust/stable/sni-spoof-rs-windows-amd64.zip) |
 
 
 ---
