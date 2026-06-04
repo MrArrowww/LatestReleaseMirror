@@ -279,11 +279,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/MHSanaei/3x-ui)
 
-#### 🟢 Stable – [<code><small>v3.2.6</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.2.6)
+#### 🟢 Stable – [<code><small>v3.2.7</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.2.7)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-windows-amd64.zip` | 79.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
+| `x-ui-windows-amd64.zip` | 79.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
 
 #### 🟡 Pre-release – [<code><small>v3.0.2</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.0.2)
 
@@ -455,6 +455,23 @@ sha256sum FILE_NAME
 |------|------|----------|
 | `StormDNS_Client_Windows_AMD64.zip` | 2.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/stable/StormDNS_Client_Windows_AMD64.zip) |
 | `StormDNS_Server_Windows_AMD64.zip` | 2.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/nullroute1970/StormDNS/stable/StormDNS_Server_Windows_AMD64.zip) |
+
+
+---
+
+<div id="rezakhosh78--rkh-cf-scanner"></div>
+
+### rezakhosh78--RKh-CF-Scanner
+
+🔗 [source](https://github.com/rezakhosh78/RKh-CF-Scanner)
+
+#### 🟢 Stable – [<code><small>0.2.0</small></code>](https://github.com/rezakhosh78/RKh-CF-Scanner/releases/tag/0.2.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `RKh-CFS-Android-v0.2.1.apk` | 24.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/rezakhosh78/RKh-CF-Scanner/stable/RKh-CFS-Android-v0.2.1.apk) |
+| `RKh-CFS-Termux-v0.2.0.zip` | 19.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/rezakhosh78/RKh-CF-Scanner/stable/RKh-CFS-Termux-v0.2.0.zip) |
+| `RKh-CFS-win-v0.2.0.exe` | 23.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/rezakhosh78/RKh-CF-Scanner/stable/RKh-CFS-win-v0.2.0.exe) |
 
 
 ---
