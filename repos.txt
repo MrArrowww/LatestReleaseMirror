@@ -40,3 +40,4 @@ Rainman69/SNISPF|windows-x86_64.zip
 NullLatency/FlowDriver|windows-amd64.zip
 MHSanaei/3x-ui|windows-amd64.zip
 rezakhosh78/RKh-CF-Scanner
+saeedmasoudie/pywarp|windows-x64
