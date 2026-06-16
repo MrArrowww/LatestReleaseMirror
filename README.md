@@ -205,23 +205,23 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/2dust/v2rayNG)
 
-#### 🟢 Stable – [<code><small>2.2.3</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.3)
+#### 🟢 Stable – [<code><small>2.2.4</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.3-fdroid_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.3-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.3-fdroid_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.3-fdroid_x86_64.apk) |
-| `v2rayNG_2.2.3_arm64-v8a.apk` | 27.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.3_arm64-v8a.apk) |
-| `v2rayNG_2.2.3_x86_64.apk` | 27.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.3_x86_64.apk) |
+| `v2rayNG_2.2.4-fdroid_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.4-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.4-fdroid_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.4-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.4_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.4_arm64-v8a.apk) |
+| `v2rayNG_2.2.4_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.4_x86_64.apk) |
 
-#### 🟡 Pre-release – [<code><small>2.2.4</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.4)
+#### 🟡 Pre-release – [<code><small>2.2.0</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.4-fdroid_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.4-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.4-fdroid_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.4-fdroid_x86_64.apk) |
-| `v2rayNG_2.2.4_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.4_arm64-v8a.apk) |
-| `v2rayNG_2.2.4_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.4_x86_64.apk) |
+| `v2rayNG_2.2.0-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.0-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.0_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0_arm64-v8a.apk) |
+| `v2rayNG_2.2.0_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0_x86_64.apk) |
 
 
 ---
