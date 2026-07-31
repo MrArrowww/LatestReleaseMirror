@@ -178,23 +178,27 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/2dust/v2rayN)
 
-#### 🟢 Stable – [<code><small>7.22.7</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.22.7)
+#### 🟢 Stable – [<code><small>7.24.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.24.4)
 
 | File | Size | Download |
 |------|------|----------|
+| `v2rayN-windows-64.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.sig) |
+| `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 36.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 69.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 69.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
 
-#### 🟡 Pre-release – [<code><small>7.23.0</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.23.0)
+#### 🟡 Pre-release – [<code><small>7.24.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.24.3)
 
 | File | Size | Download |
 |------|------|----------|
+| `v2rayN-windows-64.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.sig) |
+| `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 35.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 69.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 68.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
 
 
 ---
@@ -205,23 +209,27 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/2dust/v2rayNG)
 
-#### 🟢 Stable – [<code><small>2.2.4</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.4)
+#### 🟢 Stable – [<code><small>2.2.6</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.6)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.4-fdroid_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.4-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.4-fdroid_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.4-fdroid_x86_64.apk) |
-| `v2rayNG_2.2.4_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.4_arm64-v8a.apk) |
-| `v2rayNG_2.2.4_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.4_x86_64.apk) |
+| `v2rayNG_2.2.6-fdroid_arm64-v8a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.6-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.6-fdroid_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.6-fdroid_arm64-v8a.apk.sig) |
+| `v2rayNG_2.2.6-fdroid_x86_64.apk` | 28.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.6-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.6-fdroid_x86_64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.6-fdroid_x86_64.apk.sig) |
+| `v2rayNG_2.2.6_arm64-v8a.apk` | 27.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.6_arm64-v8a.apk) |
+| `v2rayNG_2.2.6_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.6_arm64-v8a.apk.sig) |
+| `v2rayNG_2.2.6_x86_64.apk` | 28.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.6_x86_64.apk) |
+| `v2rayNG_2.2.6_x86_64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.2.6_x86_64.apk.sig) |
 
-#### 🟡 Pre-release – [<code><small>2.2.5</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.5)
+#### 🟡 Pre-release – [<code><small>2.2.0</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.2.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.2.5-fdroid_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.5-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.2.5-fdroid_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.5-fdroid_x86_64.apk) |
-| `v2rayNG_2.2.5_arm64-v8a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.5_arm64-v8a.apk) |
-| `v2rayNG_2.2.5_x86_64.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.5_x86_64.apk) |
+| `v2rayNG_2.2.0-fdroid_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.2.0-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0-fdroid_x86_64.apk) |
+| `v2rayNG_2.2.0_arm64-v8a.apk` | 26.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0_arm64-v8a.apk) |
+| `v2rayNG_2.2.0_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.2.0_x86_64.apk) |
 
 
 ---
@@ -232,12 +240,12 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/GFW-knocker/MahsaNG)
 
-#### 🟢 Stable – [<code><small>v16-(1405-2-25)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v16-(1405-2-25))
+#### 🟢 Stable – [<code><small>v17-(1405-4-12)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v17-(1405-4-12))
 
 | File | Size | Download |
 |------|------|----------|
-| `MahsaNG_16_arm64-v8a.apk` | 59.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_16_arm64-v8a.apk) |
-| `MahsaNG_16_x86_64.apk` | 62.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_16_x86_64.apk) |
+| `MahsaNG_17_arm64-v8a.apk` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_17_arm64-v8a.apk) |
+| `MahsaNG_17_x86_64.apk` | 67.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_17_x86_64.apk) |
 
 
 ---
@@ -279,17 +287,34 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/MHSanaei/3x-ui)
 
-#### 🟢 Stable – [<code><small>v3.3.1</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.3.1)
+#### 🟢 Stable – [<code><small>v3.6.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.6.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-windows-amd64.zip` | 85.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
+| `x-ui-windows-amd64.zip` | 83.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
 
-#### 🟡 Pre-release – [<code><small>v3.0.2</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.0.2)
+#### 🟡 Pre-release – [<code><small>dev-latest</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-windows-amd64.zip` | 75.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/prerelease/x-ui-windows-amd64.zip) |
+| `x-ui-windows-amd64.zip` | 83.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/prerelease/x-ui-windows-amd64.zip) |
+
+
+---
+
+<div id="maxifan--tunnelx"></div>
+
+### MaxiFan--TunnelX
+
+🔗 [source](https://github.com/MaxiFan/TunnelX)
+
+#### 🟢 Stable – [<code><small>v2.1.2</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v2.1.2)
+
+| File | Size | Download |
+|------|------|----------|
+| `TunnelX-v2.1.2-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.2-standalone-compressed.exe.sha256) |
+| `TunnelX-v2.1.2-standalone-compressed.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.2-standalone-compressed.exe.001) |
+| `TunnelX-v2.1.2-standalone-compressed.exe (part 2 of 2)` | 30.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.1.2-standalone-compressed.exe.002) |
 
 
 ---
@@ -358,33 +383,17 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="iampedii--whitedns"></div>
-
-### iampedii--WhiteDNS
-
-🔗 [source](https://github.com/iampedii/WhiteDNS)
-
-#### 🟢 Stable – [<code><small>1.5.1</small></code>](https://github.com/iampedii/WhiteDNS/releases/tag/1.5.1)
-
-| File | Size | Download |
-|------|------|----------|
-| `WhiteDNS-1.5.1-arm64-v8a.apk` | 5.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/stable/WhiteDNS-1.5.1-arm64-v8a.apk) |
-| `WhiteDNS-1.5.1-arm64-v8a.apk.idsig` | 54 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/iampedii/WhiteDNS/stable/WhiteDNS-1.5.1-arm64-v8a.apk.idsig) |
-
-
----
-
 <div id="lilendian0x00--xray-knife"></div>
 
 ### lilendian0x00--xray-knife
 
 🔗 [source](https://github.com/lilendian0x00/xray-knife)
 
-#### 🟢 Stable – [<code><small>v10.0.0</small></code>](https://github.com/lilendian0x00/xray-knife/releases/tag/v10.0.0)
+#### 🟢 Stable – [<code><small>v10.1.1</small></code>](https://github.com/lilendian0x00/xray-knife/releases/tag/v10.1.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `Xray-knife-windows-64.zip` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/stable/Xray-knife-windows-64.zip) |
+| `Xray-knife-windows-64.zip` | 19.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/stable/Xray-knife-windows-64.zip) |
 | `Xray-knife-windows-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/stable/Xray-knife-windows-64.zip.dgst) |
 
 
@@ -412,11 +421,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/mirarr-app/network-checker)
 
-#### 🟢 Stable – [<code><small>1.2.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.2.0)
+#### 🟢 Stable – [<code><small>1.4.0</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.4.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `app-arm64-v8a-release.apk` | 31.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/app-arm64-v8a-release.apk) |
+| `app-arm64-v8a-release.apk` | 31.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/app-arm64-v8a-release.apk) |
 | `rdnbenet-windows.zip` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/rdnbenet-windows.zip) |
 
 
@@ -438,19 +447,18 @@ sha256sum FILE_NAME
 
 ---
 
-<div id="rezakhosh78--rkh-cf-scanner"></div>
+<div id="rezakhosh78--simorgh-scanner"></div>
 
-### rezakhosh78--RKh-CF-Scanner
+### rezakhosh78--SIMORGH-Scanner
 
-🔗 [source](https://github.com/rezakhosh78/RKh-CF-Scanner)
+🔗 [source](https://github.com/rezakhosh78/SIMORGH-Scanner)
 
-#### 🟢 Stable – [<code><small>0.2.0</small></code>](https://github.com/rezakhosh78/RKh-CF-Scanner/releases/tag/0.2.0)
+#### 🟢 Stable – [<code><small>v0.3.1</small></code>](https://github.com/rezakhosh78/SIMORGH-Scanner/releases/tag/v0.3.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `RKh-CFS-Android-v0.2.1.apk` | 24.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/rezakhosh78/RKh-CF-Scanner/stable/RKh-CFS-Android-v0.2.1.apk) |
-| `RKh-CFS-Termux-v0.2.0.zip` | 19.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/rezakhosh78/RKh-CF-Scanner/stable/RKh-CFS-Termux-v0.2.0.zip) |
-| `RKh-CFS-win-v0.2.0.exe` | 23.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/rezakhosh78/RKh-CF-Scanner/stable/RKh-CFS-win-v0.2.0.exe) |
+| `SIMORGH-Scanner-v0.3.1-Windows-x64.exe` | 32.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/rezakhosh78/SIMORGH-Scanner/stable/SIMORGH-Scanner-v0.3.1-Windows-x64.exe) |
+| `SIMORGH-Scanner-v0.3.1-arm64-v8.apk` | 24.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/rezakhosh78/SIMORGH-Scanner/stable/SIMORGH-Scanner-v0.3.1-arm64-v8.apk) |
 
 
 ---
@@ -493,15 +501,15 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/throneproj/Throne)
 
-#### 🟢 Stable – [<code><small>1.1.6</small></code>](https://github.com/throneproj/Throne/releases/tag/1.1.6)
+#### 🟢 Stable – [<code><small>1.2.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.2.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `Throne-1.1.6-windows64.zip` | 44.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.1.6-windows64.zip) |
+| `Throne-1.2.2-windows64.zip` | 46.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.2.2-windows64.zip) |
 
-#### 🟡 Pre-release – [<code><small>1.2.0-beta.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.2.0-beta.2)
+#### 🟡 Pre-release – [<code><small>1.2.0-beta.7</small></code>](https://github.com/throneproj/Throne/releases/tag/1.2.0-beta.7)
 
 | File | Size | Download |
 |------|------|----------|
-| `Throne-1.2.0-beta.2-windows64.zip` | 45.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/prerelease/Throne-1.2.0-beta.2-windows64.zip) |
+| `Throne-1.2.0-beta.7-windows64.zip` | 46.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/prerelease/Throne-1.2.0-beta.7-windows64.zip) |
 <!-- RELEASES_END -->
