@@ -488,11 +488,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/throneproj/Throne)
 
-#### 🟢 Stable – [<code><small>1.2.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.2.2)
+#### 🟢 Stable – [<code><small>1.2.3</small></code>](https://github.com/throneproj/Throne/releases/tag/1.2.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `Throne-1.2.2-windows64.zip` | 46.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.2.2-windows64.zip) |
+| `Throne-1.2.3-windows64.zip` | 42.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.2.3-windows64.zip) |
 
 #### 🟡 Pre-release – [<code><small>1.2.0-beta.7</small></code>](https://github.com/throneproj/Throne/releases/tag/1.2.0-beta.7)
 
