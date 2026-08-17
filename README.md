@@ -163,7 +163,7 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/10ium/SNIScanner)
 
-#### 🟢 Stable – [<code><small>v1.15.0</small></code>](https://github.com/10ium/SNIScanner/releases/tag/v1.15.0)
+#### 🟢 Stable – [<code><small>v2.0.1</small></code>](https://github.com/10ium/SNIScanner/releases/tag/v2.0.1)
 
 | File | Size | Download |
 |------|------|----------|
