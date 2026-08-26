@@ -291,11 +291,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/MHSanaei/3x-ui)
 
-#### 🟢 Stable – [<code><small>v3.6.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.6.0)
+#### 🟢 Stable – [<code><small>v3.7.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.7.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-windows-amd64.zip` | 83.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
+| `x-ui-windows-amd64.zip` | 84.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
 
 #### 🟡 Pre-release – [<code><small>dev-latest</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest)
 
