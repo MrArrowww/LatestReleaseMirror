@@ -260,7 +260,7 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/GFW-knocker/Xray-core)
 
-#### 🟢 Stable – [<code><small>v26.8.30-mahsa-r1</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v26.8.30-mahsa-r1)
+#### 🟢 Stable – [<code><small>v1.26.9-mahsa-r1</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.9-mahsa-r1)
 
 | File | Size | Download |
 |------|------|----------|
