@@ -377,7 +377,7 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/lilendian0x00/xray-knife)
 
-#### 🟢 Stable – [<code><small>v11.1.0</small></code>](https://github.com/lilendian0x00/xray-knife/releases/tag/v11.1.0)
+#### 🟢 Stable – [<code><small>v11.2.0</small></code>](https://github.com/lilendian0x00/xray-knife/releases/tag/v11.2.0)
 
 | File | Size | Download |
 |------|------|----------|
