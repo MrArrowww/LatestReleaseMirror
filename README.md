@@ -301,7 +301,7 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/MHSanaei/3x-ui)
 
-#### 🟢 Stable – [<code><small>v3.8.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.8.0)
+#### 🟢 Stable – [<code><small>v3.8.5</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.8.5)
 
 | File | Size | Download |
 |------|------|----------|
@@ -505,9 +505,9 @@ sha256sum FILE_NAME
 |------|------|----------|
 | `Throne-1.2.4-windows64.zip` | 42.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.2.4-windows64.zip) |
 
-#### 🟡 Pre-release – [<code><small>1.3.0-beta.3</small></code>](https://github.com/throneproj/Throne/releases/tag/1.3.0-beta.3)
+#### 🟡 Pre-release – [<code><small>1.3.0-beta.4</small></code>](https://github.com/throneproj/Throne/releases/tag/1.3.0-beta.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `Throne-1.3.0-beta.3-windows64.zip` | 52.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/prerelease/Throne-1.3.0-beta.3-windows64.zip) |
+| `Throne-1.3.0-beta.4-windows64.zip` | 52.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/prerelease/Throne-1.3.0-beta.4-windows64.zip) |
 <!-- RELEASES_END -->
