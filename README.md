@@ -260,11 +260,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/GFW-knocker/Xray-core)
 
-#### 🟢 Stable – [<code><small>v1.26.9-mahsa-r4</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.9-mahsa-r4)
+#### 🟢 Stable – [<code><small>v1.26.9-mahsa-r5</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.9-mahsa-r5)
 
 | File | Size | Download |
 |------|------|----------|
-| `Xray-windows-64.zip` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/Xray-core/stable/Xray-windows-64.zip) |
+| `Xray-windows-64.zip` | 20.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/Xray-core/stable/Xray-windows-64.zip) |
 | `Xray-windows-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/Xray-core/stable/Xray-windows-64.zip.dgst) |
 
 
