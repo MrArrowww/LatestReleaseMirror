@@ -1,7 +1,7 @@
 {
-  "tag": "1.7.0",
+  "tag": "1.7.1",
   "status": "stable",
-  "published_at": "2026-09-11T11:10:35Z",
+  "published_at": "2026-09-23T10:59:31Z",
   "filter_pattern": "arm64-v8a|windows",
-  "updated_at": "2026-09-11T16:14:36Z"
+  "updated_at": "2026-09-23T17:11:12Z"
 }
