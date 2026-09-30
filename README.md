@@ -189,7 +189,7 @@ sha256sum FILE_NAME
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.001) |
 | `v2rayN-windows-64.zip (part 2 of 2)` | 59.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
 
-#### 🟡 Pre-release – [<code><small>7.25.2</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.2)
+#### 🟡 Pre-release – [<code><small>7.25.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.3)
 
 | File | Size | Download |
 |------|------|----------|
@@ -198,7 +198,7 @@ sha256sum FILE_NAME
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.001) |
 | `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 47.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 70.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 70.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
 
 
 ---
@@ -499,11 +499,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/throneproj/Throne)
 
-#### 🟢 Stable – [<code><small>1.3.1</small></code>](https://github.com/throneproj/Throne/releases/tag/1.3.1)
+#### 🟢 Stable – [<code><small>1.3.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.3.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `Throne-1.3.1-windows64.zip` | 52.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.3.1-windows64.zip) |
+| `Throne-1.3.2-windows64.zip` | 52.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.3.2-windows64.zip) |
 
 #### 🟡 Pre-release – [<code><small>1.3.0-beta.4</small></code>](https://github.com/throneproj/Throne/releases/tag/1.3.0-beta.4)
 
