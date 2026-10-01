@@ -178,25 +178,25 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/2dust/v2rayN)
 
-#### 🟢 Stable – [<code><small>7.24.9</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.24.9)
+#### 🟢 Stable – [<code><small>7.25.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.4)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.sig) |
 | `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 36.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 47.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 59.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 70.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
 
-#### 🟡 Pre-release – [<code><small>7.25.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.4)
+#### 🟡 Pre-release – [<code><small>7.25.3</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.3)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.sig) |
 | `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 47.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 47.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.001) |
 | `v2rayN-windows-64.zip (part 2 of 2)` | 70.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
 
@@ -260,7 +260,7 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/GFW-knocker/Xray-core)
 
-#### 🟢 Stable – [<code><small>v1.26.9-mahsa-r6</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.9-mahsa-r6)
+#### 🟢 Stable – [<code><small>v1.26.10-mahsa-r1</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.10-mahsa-r1)
 
 | File | Size | Download |
 |------|------|----------|
@@ -313,23 +313,6 @@ sha256sum FILE_NAME
 | File | Size | Download |
 |------|------|----------|
 | `x-ui-windows-amd64.zip` | 83.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/prerelease/x-ui-windows-amd64.zip) |
-
-
----
-
-<div id="maxifan--tunnelx"></div>
-
-### MaxiFan--TunnelX
-
-🔗 [source](https://github.com/MaxiFan/TunnelX)
-
-#### 🟢 Stable – [<code><small>v2.2.2</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v2.2.2)
-
-| File | Size | Download |
-|------|------|----------|
-| `TunnelX-v2.2.2-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.2.2-standalone-compressed.exe.sha256) |
-| `TunnelX-v2.2.2-standalone-compressed.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.2.2-standalone-compressed.exe.001) |
-| `TunnelX-v2.2.2-standalone-compressed.exe (part 2 of 2)` | 31.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.2.2-standalone-compressed.exe.002) |
 
 
 ---
