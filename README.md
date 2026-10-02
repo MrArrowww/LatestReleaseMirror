@@ -251,6 +251,13 @@ sha256sum FILE_NAME
 | `MahsaNG_17_arm64-v8a.apk` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_17_arm64-v8a.apk) |
 | `MahsaNG_17_x86_64.apk` | 67.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_17_x86_64.apk) |
 
+#### 🟡 Pre-release – [<code><small>v18-(1405-7-10)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v18-(1405-7-10))
+
+| File | Size | Download |
+|------|------|----------|
+| `MahsaNG_18_arm64-v8a.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/prerelease/MahsaNG_18_arm64-v8a.apk) |
+| `MahsaNG_18_x86_64.apk` | 64.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/prerelease/MahsaNG_18_x86_64.apk) |
+
 
 ---
 
