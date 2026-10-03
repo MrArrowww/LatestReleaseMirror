@@ -267,7 +267,7 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/GFW-knocker/Xray-core)
 
-#### 🟢 Stable – [<code><small>v1.26.10-mahsa-r1</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.10-mahsa-r1)
+#### 🟢 Stable – [<code><small>v1.26.10-mahsa-r2</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.10-mahsa-r2)
 
 | File | Size | Download |
 |------|------|----------|
@@ -480,13 +480,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/saeedmasoudie/pywarp)
 
-#### 🟢 Stable – [<code><small>v1.3.5</small></code>](https://github.com/saeedmasoudie/pywarp/releases/tag/v1.3.5)
+#### 🟢 Stable – [<code><small>v1.3.6</small></code>](https://github.com/saeedmasoudie/pywarp/releases/tag/v1.3.6)
 
 | File | Size | Download |
 |------|------|----------|
-| `pywarp-windows-x64-v1.3.5.zip (part 1 of 3)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v1.3.5.zip.001) |
-| `pywarp-windows-x64-v1.3.5.zip (part 2 of 3)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v1.3.5.zip.002) |
-| `pywarp-windows-x64-v1.3.5.zip (part 3 of 3)` | 55.7 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v1.3.5.zip.003) |
+| `pywarp-windows-x64-v1.3.6.zip` | 49.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v1.3.6.zip) |
 
 
 ---
