@@ -244,12 +244,12 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/GFW-knocker/MahsaNG)
 
-#### 🟢 Stable – [<code><small>v17-(1405-4-12)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v17-(1405-4-12))
+#### 🟢 Stable – [<code><small>v18-(1405-7-10)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v18-(1405-7-10))
 
 | File | Size | Download |
 |------|------|----------|
-| `MahsaNG_17_arm64-v8a.apk` | 64.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_17_arm64-v8a.apk) |
-| `MahsaNG_17_x86_64.apk` | 67.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_17_x86_64.apk) |
+| `MahsaNG_18_arm64-v8a.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_18_arm64-v8a.apk) |
+| `MahsaNG_18_x86_64.apk` | 64.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/stable/MahsaNG_18_x86_64.apk) |
 
 #### 🟡 Pre-release – [<code><small>v18-(1405-7-10)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v18-(1405-7-10))
 
@@ -314,11 +314,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/MHSanaei/3x-ui)
 
-#### 🟢 Stable – [<code><small>v3.8.5</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.8.5)
+#### 🟢 Stable – [<code><small>v3.9.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.9.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-windows-amd64.zip` | 85.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
+| `x-ui-windows-amd64.zip` | 85.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
 | `x-ui-windows-amd64.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip.sha256) |
 
 #### 🟡 Pre-release – [<code><small>dev-latest</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest)
