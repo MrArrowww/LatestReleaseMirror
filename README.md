@@ -432,11 +432,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/mirarr-app/network-checker)
 
-#### 🟢 Stable – [<code><small>1.7.1</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.7.1)
+#### 🟢 Stable – [<code><small>1.7.2</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.7.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `app-arm64-v8a-release.apk` | 31.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/app-arm64-v8a-release.apk) |
+| `app-arm64-v8a-release.apk` | 31.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/app-arm64-v8a-release.apk) |
 | `rdnbenet-windows.zip` | 22.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/rdnbenet-windows.zip) |
 
 
