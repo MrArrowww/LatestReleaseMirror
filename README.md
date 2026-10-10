@@ -330,6 +330,23 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="maxifan--tunnelx"></div>
+
+### MaxiFan--TunnelX
+
+🔗 [source](https://github.com/MaxiFan/TunnelX)
+
+#### 🟢 Stable – [<code><small>v2.2.5</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v2.2.5)
+
+| File | Size | Download |
+|------|------|----------|
+| `TunnelX-v2.2.5-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.2.5-standalone-compressed.exe.sha256) |
+| `TunnelX-v2.2.5-standalone-compressed.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.2.5-standalone-compressed.exe.001) |
+| `TunnelX-v2.2.5-standalone-compressed.exe (part 2 of 2)` | 31.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/stable/TunnelX-v2.2.5-standalone-compressed.exe.002) |
+
+
+---
+
 <div id="mortezabashsiz--cfscanner"></div>
 
 ### MortezaBashsiz--CFScanner
@@ -516,9 +533,9 @@ sha256sum FILE_NAME
 |------|------|----------|
 | `Throne-1.3.2-windows64.zip` | 52.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.3.2-windows64.zip) |
 
-#### 🟡 Pre-release – [<code><small>1.4.0-beta.1</small></code>](https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.1)
+#### 🟡 Pre-release – [<code><small>1.4.0-beta.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `Throne-1.4.0-beta.1-windows64.zip` | 52.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/prerelease/Throne-1.4.0-beta.1-windows64.zip) |
+| `Throne-1.4.0-beta.2-windows64.zip` | 52.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/prerelease/Throne-1.4.0-beta.2-windows64.zip) |
 <!-- RELEASES_END -->
