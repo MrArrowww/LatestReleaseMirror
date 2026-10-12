@@ -314,11 +314,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/MHSanaei/3x-ui)
 
-#### 🟢 Stable – [<code><small>v3.9.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.9.0)
+#### 🟢 Stable – [<code><small>v3.10.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.10.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-windows-amd64.zip` | 85.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
+| `x-ui-windows-amd64.zip` | 86.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
 | `x-ui-windows-amd64.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip.sha256) |
 
 #### 🟡 Pre-release – [<code><small>dev-latest</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest)
@@ -480,11 +480,12 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/saeedmasoudie/pywarp)
 
-#### 🟢 Stable – [<code><small>v1.3.6</small></code>](https://github.com/saeedmasoudie/pywarp/releases/tag/v1.3.6)
+#### 🟢 Stable – [<code><small>v2.0.0</small></code>](https://github.com/saeedmasoudie/pywarp/releases/tag/v2.0.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `pywarp-windows-x64-v1.3.6.zip` | 49.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v1.3.6.zip) |
+| `pywarp-windows-x64-v2.0.0.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.0.zip.001) |
+| `pywarp-windows-x64-v2.0.0.zip (part 2 of 2)` | 79.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.0.zip.002) |
 
 
 ---
