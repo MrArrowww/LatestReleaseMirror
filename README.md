@@ -178,27 +178,27 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/2dust/v2rayN)
 
-#### 🟢 Stable – [<code><small>7.25.4</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.4)
+#### 🟢 Stable – [<code><small>7.25.6</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.6)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.sig) |
 | `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 47.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 48.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 70.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 70.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
 
-#### 🟡 Pre-release – [<code><small>7.25.6</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.6)
+#### 🟡 Pre-release – [<code><small>7.25.5</small></code>](https://github.com/2dust/v2rayN/releases/tag/7.25.5)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.sig) |
 | `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 48.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 47.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 70.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 70.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
 
 
 ---
@@ -314,11 +314,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/MHSanaei/3x-ui)
 
-#### 🟢 Stable – [<code><small>v3.10.0</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.10.0)
+#### 🟢 Stable – [<code><small>v3.10.2</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/v3.10.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `x-ui-windows-amd64.zip` | 86.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
+| `x-ui-windows-amd64.zip` | 87.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip) |
 | `x-ui-windows-amd64.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/MHSanaei/3x-ui/stable/x-ui-windows-amd64.zip.sha256) |
 
 #### 🟡 Pre-release – [<code><small>dev-latest</small></code>](https://github.com/MHSanaei/3x-ui/releases/tag/dev-latest)
@@ -400,11 +400,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/lilendian0x00/xray-knife)
 
-#### 🟢 Stable – [<code><small>v11.3.0</small></code>](https://github.com/lilendian0x00/xray-knife/releases/tag/v11.3.0)
+#### 🟢 Stable – [<code><small>v11.4.0</small></code>](https://github.com/lilendian0x00/xray-knife/releases/tag/v11.4.0)
 
 | File | Size | Download |
 |------|------|----------|
-| `Xray-knife-windows-64.zip` | 22.5 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/stable/Xray-knife-windows-64.zip) |
+| `Xray-knife-windows-64.zip` | 23.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/stable/Xray-knife-windows-64.zip) |
 | `Xray-knife-windows-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/stable/Xray-knife-windows-64.zip.dgst) |
 
 
@@ -480,12 +480,12 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/saeedmasoudie/pywarp)
 
-#### 🟢 Stable – [<code><small>v2.0.0</small></code>](https://github.com/saeedmasoudie/pywarp/releases/tag/v2.0.0)
+#### 🟢 Stable – [<code><small>v2.0.1</small></code>](https://github.com/saeedmasoudie/pywarp/releases/tag/v2.0.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `pywarp-windows-x64-v2.0.0.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.0.zip.001) |
-| `pywarp-windows-x64-v2.0.0.zip (part 2 of 2)` | 79.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.0.zip.002) |
+| `pywarp-windows-x64-v2.0.1.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.1.zip.001) |
+| `pywarp-windows-x64-v2.0.1.zip (part 2 of 2)` | 79.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.1.zip.002) |
 
 
 ---
