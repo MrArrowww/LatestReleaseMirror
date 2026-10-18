@@ -1,7 +1,7 @@
 {
-  "tag": "2.3.10",
+  "tag": "2.3.12",
   "status": "prerelease",
-  "published_at": "2026-10-01T09:27:00Z",
+  "published_at": "2026-10-18T08:49:41Z",
   "filter_pattern": "arm64-v8a.apk|_x86_64.apk",
-  "updated_at": "2026-10-17T03:50:06Z"
+  "updated_at": "2026-10-18T15:40:35Z"
 }
