@@ -400,11 +400,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/lilendian0x00/xray-knife)
 
-#### 🟢 Stable – [<code><small>v11.4.0</small></code>](https://github.com/lilendian0x00/xray-knife/releases/tag/v11.4.0)
+#### 🟢 Stable – [<code><small>v11.4.1</small></code>](https://github.com/lilendian0x00/xray-knife/releases/tag/v11.4.1)
 
 | File | Size | Download |
 |------|------|----------|
-| `Xray-knife-windows-64.zip` | 23.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/stable/Xray-knife-windows-64.zip) |
+| `Xray-knife-windows-64.zip` | 22.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/stable/Xray-knife-windows-64.zip) |
 | `Xray-knife-windows-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/lilendian0x00/xray-knife/stable/Xray-knife-windows-64.zip.dgst) |
 
 
@@ -517,9 +517,9 @@ sha256sum FILE_NAME
 |------|------|----------|
 | `Throne-1.3.2-windows64.zip` | 52.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.3.2-windows64.zip) |
 
-#### 🟡 Pre-release – [<code><small>1.4.0-beta.3</small></code>](https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.3)
+#### 🟡 Pre-release – [<code><small>1.4.0-beta.4</small></code>](https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.4)
 
 | File | Size | Download |
 |------|------|----------|
-| `Throne-1.4.0-beta.3-windows64.zip` | 53.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/prerelease/Throne-1.4.0-beta.3-windows64.zip) |
+| `Throne-1.4.0-beta.4-windows64.zip` | 53.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/prerelease/Throne-1.4.0-beta.4-windows64.zip) |
 <!-- RELEASES_END -->
