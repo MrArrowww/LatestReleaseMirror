@@ -385,11 +385,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/anonvector/SlipNet)
 
-#### 🟢 Stable – [<code><small>v2.5.5</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.5)
+#### 🟢 Stable – [<code><small>v2.5.6</small></code>](https://github.com/anonvector/SlipNet/releases/tag/v2.5.6)
 
 | File | Size | Download |
 |------|------|----------|
-| `SlipNet-v2.5.5-lite-release-arm64-v8a.apk` | 10.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/anonvector/SlipNet/stable/SlipNet-v2.5.5-lite-release-arm64-v8a.apk) |
+| `SlipNet-v2.5.6-lite-release-arm64-v8a.apk` | 11.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/anonvector/SlipNet/stable/SlipNet-v2.5.6-lite-release-arm64-v8a.apk) |
 
 
 ---
