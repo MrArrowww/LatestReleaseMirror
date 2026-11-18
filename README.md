@@ -283,27 +283,29 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/KNG7-P/Se7en-Pro)
 
-#### 🟢 Stable – [<code><small>v1.0.7</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.7)
+#### 🟢 Stable – [<code><small>v1.0.8</small></code>](https://github.com/KNG7-P/Se7en-Pro/releases/tag/v1.0.8)
 
 | File | Size | Download |
 |------|------|----------|
 | `SHA256SUMS.txt` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/SHA256SUMS.txt) |
-| `Se7enPro_v1.0.7_Portable_x64.zip (part 1 of 3)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x64.zip.001) |
-| `Se7enPro_v1.0.7_Portable_x64.zip (part 2 of 3)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x64.zip.002) |
-| `Se7enPro_v1.0.7_Portable_x64.zip (part 3 of 3)` | 11.8 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x64.zip.003) |
-| `Se7enPro_v1.0.7_Portable_x64_without_dotnet.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x64_without_dotnet.zip.001) |
-| `Se7enPro_v1.0.7_Portable_x64_without_dotnet.zip (part 2 of 2)` | 23.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x64_without_dotnet.zip.002) |
-| `Se7enPro_v1.0.7_Portable_x86.zip (part 1 of 3)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x86.zip.001) |
-| `Se7enPro_v1.0.7_Portable_x86.zip (part 2 of 3)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x86.zip.002) |
-| `Se7enPro_v1.0.7_Portable_x86.zip (part 3 of 3)` | 3.7 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x86.zip.003) |
-| `Se7enPro_v1.0.7_Portable_x86_without_dotnet.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x86_without_dotnet.zip.001) |
-| `Se7enPro_v1.0.7_Portable_x86_without_dotnet.zip (part 2 of 2)` | 23.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Portable_x86_without_dotnet.zip.002) |
-| `Se7enPro_v1.0.7_Setup_x64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Setup_x64.exe.001) |
-| `Se7enPro_v1.0.7_Setup_x64.exe (part 2 of 2)` | 30.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Setup_x64.exe.002) |
-| `Se7enPro_v1.0.7_Setup_x64_without_dotnet.exe` | 69.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Setup_x64_without_dotnet.exe) |
-| `Se7enPro_v1.0.7_Setup_x86.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Setup_x86.exe.001) |
-| `Se7enPro_v1.0.7_Setup_x86.exe (part 2 of 2)` | 26.4 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Setup_x86.exe.002) |
-| `Se7enPro_v1.0.7_Setup_x86_without_dotnet.exe` | 71.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.7_Setup_x86_without_dotnet.exe) |
+| `Se7enPro_v1.0.8_Portable_x64.zip (part 1 of 3)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x64.zip.001) |
+| `Se7enPro_v1.0.8_Portable_x64.zip (part 2 of 3)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x64.zip.002) |
+| `Se7enPro_v1.0.8_Portable_x64.zip (part 3 of 3)` | 63.1 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x64.zip.003) |
+| `Se7enPro_v1.0.8_Portable_x64_without_dotnet.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x64_without_dotnet.zip.001) |
+| `Se7enPro_v1.0.8_Portable_x64_without_dotnet.zip (part 2 of 2)` | 75.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x64_without_dotnet.zip.002) |
+| `Se7enPro_v1.0.8_Portable_x86.zip (part 1 of 3)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x86.zip.001) |
+| `Se7enPro_v1.0.8_Portable_x86.zip (part 2 of 3)` | 90.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x86.zip.002) |
+| `Se7enPro_v1.0.8_Portable_x86.zip (part 3 of 3)` | 54.9 MB | [⬇️ Download (Part 3)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x86.zip.003) |
+| `Se7enPro_v1.0.8_Portable_x86_without_dotnet.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x86_without_dotnet.zip.001) |
+| `Se7enPro_v1.0.8_Portable_x86_without_dotnet.zip (part 2 of 2)` | 74.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Portable_x86_without_dotnet.zip.002) |
+| `Se7enPro_v1.0.8_Setup_x64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Setup_x64.exe.001) |
+| `Se7enPro_v1.0.8_Setup_x64.exe (part 2 of 2)` | 66.8 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Setup_x64.exe.002) |
+| `Se7enPro_v1.0.8_Setup_x64_without_dotnet.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Setup_x64_without_dotnet.exe.001) |
+| `Se7enPro_v1.0.8_Setup_x64_without_dotnet.exe (part 2 of 2)` | 15.7 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Setup_x64_without_dotnet.exe.002) |
+| `Se7enPro_v1.0.8_Setup_x86.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Setup_x86.exe.001) |
+| `Se7enPro_v1.0.8_Setup_x86.exe (part 2 of 2)` | 67.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Setup_x86.exe.002) |
+| `Se7enPro_v1.0.8_Setup_x86_without_dotnet.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Setup_x86_without_dotnet.exe.001) |
+| `Se7enPro_v1.0.8_Setup_x86_without_dotnet.exe (part 2 of 2)` | 22.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/KNG7-P/Se7en-Pro/stable/Se7enPro_v1.0.8_Setup_x86_without_dotnet.exe.002) |
 
 
 ---
