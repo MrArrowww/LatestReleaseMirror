@@ -418,11 +418,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/masterking32/MasterDnsVPN)
 
-#### 🟢 Stable – [<code><small>v2026.10.26.100415-5f83ee9</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.10.26.100415-5f83ee9)
+#### 🟢 Stable – [<code><small>v2026.11.18.210322-7198b45</small></code>](https://github.com/masterking32/MasterDnsVPN/releases/tag/v2026.11.18.210322-7198b45)
 
 | File | Size | Download |
 |------|------|----------|
-| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/stable/MasterDnsVPN_Client_Windows_AMD64.zip) |
+| `MasterDnsVPN_Client_Windows_AMD64.zip` | 4.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/stable/MasterDnsVPN_Client_Windows_AMD64.zip) |
 | `MasterDnsVPN_Server_Windows_AMD64.zip` | 3.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/masterking32/MasterDnsVPN/stable/MasterDnsVPN_Server_Windows_AMD64.zip) |
 
 
