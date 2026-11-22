@@ -377,11 +377,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/ShahabSL/Skirk)
 
-#### 🟢 Stable – [<code><small>v0.1.58</small></code>](https://github.com/ShahabSL/Skirk/releases/tag/v0.1.58)
+#### 🟢 Stable – [<code><small>v0.1.59</small></code>](https://github.com/ShahabSL/Skirk/releases/tag/v0.1.59)
 
 | File | Size | Download |
 |------|------|----------|
-| `Skirk_windows_x64_portable.zip` | 46.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/ShahabSL/Skirk/stable/Skirk_windows_x64_portable.zip) |
+| `Skirk_windows_x64_portable.zip` | 46.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/ShahabSL/Skirk/stable/Skirk_windows_x64_portable.zip) |
 | `Skirk_windows_x64_portable.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/ShahabSL/Skirk/stable/Skirk_windows_x64_portable.zip.sha256) |
 | `skirk-android-arm64-v8a.apk` | 16.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/ShahabSL/Skirk/stable/skirk-android-arm64-v8a.apk) |
 | `skirk-android-arm64-v8a.apk.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/ShahabSL/Skirk/stable/skirk-android-arm64-v8a.apk.sha256) |
