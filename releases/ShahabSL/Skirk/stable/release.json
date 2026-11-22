@@ -1,7 +1,7 @@
 {
-  "tag": "v0.1.58",
+  "tag": "v0.1.59",
   "status": "stable",
-  "published_at": "2026-11-21T01:41:10Z",
+  "published_at": "2026-11-22T04:23:45Z",
   "filter_pattern": "arm64-v8a.apk|windows_x64_portable.zip",
-  "updated_at": "2026-11-21T06:31:51Z"
+  "updated_at": "2026-11-22T06:01:23Z"
 }
