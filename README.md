@@ -189,22 +189,28 @@ sha256sum FILE_NAME
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.001) |
 | `v2rayN-windows-64.zip (part 2 of 2)` | 70.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
 
-#### 🟡 Pre-release – [<code><small>8.0.0</small></code>](https://github.com/2dust/v2rayN/releases/tag/8.0.0)
+#### 🟡 Pre-release – [<code><small>8.0.1</small></code>](https://github.com/2dust/v2rayN/releases/tag/8.0.1)
 
 | File | Size | Download |
 |------|------|----------|
+| `v2rayN-windows-64.exe.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.exe.sig) |
 | `v2rayN-windows-64.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.sig) |
 | `v2rayN-windows-64-WebAPI.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI.zip.sig) |
 | `v2rayN-windows-64-WebAPI-update.zip` | 54.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI-update.zip) |
 | `v2rayN-windows-64-WebAPI-update.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI-update.zip.sig) |
 | `v2rayN-windows-64-WebAPI.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI.zip.001) |
 | `v2rayN-windows-64-WebAPI.zip (part 2 of 2)` | 43.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI.zip.002) |
+| `v2rayN-windows-64-desktop.exe.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.exe.sig) |
 | `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop-aot.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop-aot.zip.sig) |
 | `v2rayN-windows-64-desktop-aot.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop-aot.zip.001) |
 | `v2rayN-windows-64-desktop-aot.zip (part 2 of 2)` | 24.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop-aot.zip.002) |
+| `v2rayN-windows-64-desktop.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.exe.001) |
+| `v2rayN-windows-64-desktop.exe (part 2 of 2)` | 32.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.exe.002) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.001) |
 | `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 49.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.exe.001) |
+| `v2rayN-windows-64.exe (part 2 of 2)` | 31.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.exe.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.001) |
 | `v2rayN-windows-64.zip (part 2 of 2)` | 71.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
 
@@ -275,11 +281,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/GFW-knocker/Xray-core)
 
-#### 🟢 Stable – [<code><small>v1.26.10-mahsa-r2</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.10-mahsa-r2)
+#### 🟢 Stable – [<code><small>v1.26.11-mahsa-r1</small></code>](https://github.com/GFW-knocker/Xray-core/releases/tag/v1.26.11-mahsa-r1)
 
 | File | Size | Download |
 |------|------|----------|
-| `Xray-windows-64.zip` | 20.7 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/Xray-core/stable/Xray-windows-64.zip) |
+| `Xray-windows-64.zip` | 17.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/Xray-core/stable/Xray-windows-64.zip) |
 | `Xray-windows-64.zip.dgst` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/GFW-knocker/Xray-core/stable/Xray-windows-64.zip.dgst) |
 
 
@@ -377,7 +383,7 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/ShahabSL/Skirk)
 
-#### 🟢 Stable – [<code><small>v0.1.59</small></code>](https://github.com/ShahabSL/Skirk/releases/tag/v0.1.59)
+#### 🟢 Stable – [<code><small>v0.1.60</small></code>](https://github.com/ShahabSL/Skirk/releases/tag/v0.1.60)
 
 | File | Size | Download |
 |------|------|----------|
@@ -442,12 +448,12 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/mirarr-app/network-checker)
 
-#### 🟢 Stable – [<code><small>1.7.2</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.7.2)
+#### 🟢 Stable – [<code><small>1.7.3</small></code>](https://github.com/mirarr-app/network-checker/releases/tag/1.7.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `app-arm64-v8a-release.apk` | 31.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/app-arm64-v8a-release.apk) |
-| `rdnbenet-windows.zip` | 22.0 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/rdnbenet-windows.zip) |
+| `app-arm64-v8a-release.apk` | 31.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/app-arm64-v8a-release.apk) |
+| `rdnbenet-windows.zip` | 22.1 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/mirarr-app/network-checker/stable/rdnbenet-windows.zip) |
 
 
 ---
