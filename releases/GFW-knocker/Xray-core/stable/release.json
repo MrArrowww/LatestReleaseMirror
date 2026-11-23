@@ -1,7 +1,7 @@
 {
-  "tag": "v1.26.10-mahsa-r2",
+  "tag": "v1.26.11-mahsa-r1",
   "status": "stable",
-  "published_at": "2026-10-02T19:25:57Z",
+  "published_at": "2026-11-23T06:28:08Z",
   "filter_pattern": "windows-64.zip",
-  "updated_at": "2026-10-03T04:45:50Z"
+  "updated_at": "2026-11-23T06:54:16Z"
 }
