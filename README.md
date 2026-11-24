@@ -496,12 +496,12 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/saeedmasoudie/pywarp)
 
-#### 🟢 Stable – [<code><small>v2.0.1</small></code>](https://github.com/saeedmasoudie/pywarp/releases/tag/v2.0.1)
+#### 🟢 Stable – [<code><small>v2.0.2</small></code>](https://github.com/saeedmasoudie/pywarp/releases/tag/v2.0.2)
 
 | File | Size | Download |
 |------|------|----------|
-| `pywarp-windows-x64-v2.0.1.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.1.zip.001) |
-| `pywarp-windows-x64-v2.0.1.zip (part 2 of 2)` | 79.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.1.zip.002) |
+| `pywarp-windows-x64-v2.0.2.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.2.zip.001) |
+| `pywarp-windows-x64-v2.0.2.zip (part 2 of 2)` | 79.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/saeedmasoudie/pywarp/stable/pywarp-windows-x64-v2.0.2.zip.002) |
 
 
 ---
