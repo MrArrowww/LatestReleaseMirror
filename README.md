@@ -189,30 +189,30 @@ sha256sum FILE_NAME
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.001) |
 | `v2rayN-windows-64.zip (part 2 of 2)` | 70.9 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/stable/v2rayN-windows-64.zip.002) |
 
-#### 🟡 Pre-release – [<code><small>8.0.1</small></code>](https://github.com/2dust/v2rayN/releases/tag/8.0.1)
+#### 🟡 Pre-release – [<code><small>8.0.2</small></code>](https://github.com/2dust/v2rayN/releases/tag/8.0.2)
 
 | File | Size | Download |
 |------|------|----------|
 | `v2rayN-windows-64.exe.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.exe.sig) |
 | `v2rayN-windows-64.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.sig) |
 | `v2rayN-windows-64-WebAPI.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI.zip.sig) |
-| `v2rayN-windows-64-WebAPI-update.zip` | 54.2 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI-update.zip) |
+| `v2rayN-windows-64-WebAPI-update.zip` | 54.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI-update.zip) |
 | `v2rayN-windows-64-WebAPI-update.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI-update.zip.sig) |
 | `v2rayN-windows-64-WebAPI.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI.zip.001) |
-| `v2rayN-windows-64-WebAPI.zip (part 2 of 2)` | 43.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI.zip.002) |
+| `v2rayN-windows-64-WebAPI.zip (part 2 of 2)` | 43.6 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-WebAPI.zip.002) |
 | `v2rayN-windows-64-desktop.exe.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.exe.sig) |
 | `v2rayN-windows-64-desktop.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.sig) |
 | `v2rayN-windows-64-desktop-aot.zip.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop-aot.zip.sig) |
 | `v2rayN-windows-64-desktop-aot.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop-aot.zip.001) |
-| `v2rayN-windows-64-desktop-aot.zip (part 2 of 2)` | 24.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop-aot.zip.002) |
+| `v2rayN-windows-64-desktop-aot.zip (part 2 of 2)` | 24.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop-aot.zip.002) |
 | `v2rayN-windows-64-desktop.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.exe.001) |
-| `v2rayN-windows-64-desktop.exe (part 2 of 2)` | 32.0 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.exe.002) |
+| `v2rayN-windows-64-desktop.exe (part 2 of 2)` | 32.2 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.exe.002) |
 | `v2rayN-windows-64-desktop.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.001) |
-| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 49.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
+| `v2rayN-windows-64-desktop.zip (part 2 of 2)` | 49.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64-desktop.zip.002) |
 | `v2rayN-windows-64.exe (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.exe.001) |
 | `v2rayN-windows-64.exe (part 2 of 2)` | 31.1 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.exe.002) |
 | `v2rayN-windows-64.zip (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.001) |
-| `v2rayN-windows-64.zip (part 2 of 2)` | 71.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
+| `v2rayN-windows-64.zip (part 2 of 2)` | 71.5 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayN/prerelease/v2rayN-windows-64.zip.002) |
 
 
 ---
@@ -236,18 +236,18 @@ sha256sum FILE_NAME
 | `v2rayNG_2.3.15_x86_64.apk` | 31.9 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.3.15_x86_64.apk) |
 | `v2rayNG_2.3.15_x86_64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/stable/v2rayNG_2.3.15_x86_64.apk.sig) |
 
-#### 🟡 Pre-release – [<code><small>2.4.1</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.4.1)
+#### 🟡 Pre-release – [<code><small>2.4.3</small></code>](https://github.com/2dust/v2rayNG/releases/tag/2.4.3)
 
 | File | Size | Download |
 |------|------|----------|
-| `v2rayNG_2.4.1-fdroid_arm64-v8a.apk` | 32.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.1-fdroid_arm64-v8a.apk) |
-| `v2rayNG_2.4.1-fdroid_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.1-fdroid_arm64-v8a.apk.sig) |
-| `v2rayNG_2.4.1-fdroid_x86_64.apk` | 33.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.1-fdroid_x86_64.apk) |
-| `v2rayNG_2.4.1-fdroid_x86_64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.1-fdroid_x86_64.apk.sig) |
-| `v2rayNG_2.4.1_arm64-v8a.apk` | 32.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.1_arm64-v8a.apk) |
-| `v2rayNG_2.4.1_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.1_arm64-v8a.apk.sig) |
-| `v2rayNG_2.4.1_x86_64.apk` | 33.3 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.1_x86_64.apk) |
-| `v2rayNG_2.4.1_x86_64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.1_x86_64.apk.sig) |
+| `v2rayNG_2.4.3-fdroid_arm64-v8a.apk` | 32.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.3-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.4.3-fdroid_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.3-fdroid_arm64-v8a.apk.sig) |
+| `v2rayNG_2.4.3-fdroid_x86_64.apk` | 33.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.3-fdroid_x86_64.apk) |
+| `v2rayNG_2.4.3-fdroid_x86_64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.3-fdroid_x86_64.apk.sig) |
+| `v2rayNG_2.4.3_arm64-v8a.apk` | 32.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.3_arm64-v8a.apk) |
+| `v2rayNG_2.4.3_arm64-v8a.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.3_arm64-v8a.apk.sig) |
+| `v2rayNG_2.4.3_x86_64.apk` | 33.4 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.3_x86_64.apk) |
+| `v2rayNG_2.4.3_x86_64.apk.sig` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/2dust/v2rayNG/prerelease/v2rayNG_2.4.3_x86_64.apk.sig) |
 
 
 ---
@@ -527,11 +527,11 @@ sha256sum FILE_NAME
 
 🔗 [source](https://github.com/throneproj/Throne)
 
-#### 🟢 Stable – [<code><small>1.4.2</small></code>](https://github.com/throneproj/Throne/releases/tag/1.4.2)
+#### 🟢 Stable – [<code><small>1.4.5</small></code>](https://github.com/throneproj/Throne/releases/tag/1.4.5)
 
 | File | Size | Download |
 |------|------|----------|
-| `Throne-1.4.2-windows64.zip` | 55.8 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.4.2-windows64.zip) |
+| `Throne-1.4.5-windows64.zip` | 52.6 MB | [⬇️ Download](https://raw.githubusercontent.com/MrArrowww/LatestReleaseMirror/main/releases/throneproj/Throne/stable/Throne-1.4.5-windows64.zip) |
 
 #### 🟡 Pre-release – [<code><small>1.4.0-beta.6</small></code>](https://github.com/throneproj/Throne/releases/tag/1.4.0-beta.6)
 
